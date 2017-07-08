@@ -7,4 +7,4 @@ Synchronous blocking
 
 I hope that beginners can see some help in the future
 
-It adds a validation of a username and password.But not the true username and password validation.It's just a way I write to verify that the server receives client data and runs it.I hope you will not misunderstand.
+It adds a validation of a username and password.But it's not the true username and password validation.It's just a way I write to verify that the server receives client data and runs it.I hope you will not misunderstand.
